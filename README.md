@@ -1,14 +1,14 @@
 # Getting and Cleaning Data Project
-Project for the Getting and Cleaning Data from Coursera's John Hopkins Data Science Specialization.
+Project for the Getting and Cleaning Data course from Coursera's John Hopkins Data Science Specialization.
 
 ## Scripts list
 Provided scripts:
 
-* [a relative link](run_analysis.R)
+* [run_analysis.R](run_analysis.R)
 Main analysis script
-* [a relative link](prepare_data.R)
+* [prepare_data.R](prepare_data.R)
 Prepare data script
-* [a relative link](extract_and_tidy_data.R)
+* [extract_and_tidy_data.R](extract_and_tidy_data.R)
 Extract and tidy data script
 
 ## Requirements
