@@ -1,4 +1,4 @@
- ## CodeBook - Tidy Data Set
+# CodeBook - Tidy Data Set
 *******************************************
 #### "Subject" 
 Subject ID performing the experiment
